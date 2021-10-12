@@ -14,6 +14,7 @@ public class HelloMaven {
 
         System.out.println(res);
         System.out.println(res2);
+        System.out.println("结果计算完毕！");
     }
 
     public int minus(int n1,int n2){
