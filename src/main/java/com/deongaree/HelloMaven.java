@@ -17,6 +17,7 @@ public class HelloMaven {
         System.out.println("结果计算完毕！");
         System.out.println("master test！");
         System.out.println("hot-fix-test！");
+        System.out.println("push test！");
     }
 
     public int minus(int n1,int n2){
