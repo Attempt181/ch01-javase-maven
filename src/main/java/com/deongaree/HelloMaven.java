@@ -10,7 +10,13 @@ public class HelloMaven {
         HelloMaven hello = new HelloMaven();
 
         int res = hello.add(10, 23);
+        int res2 = hello.minus(100, 20);
 
         System.out.println(res);
+        System.out.println(res2);
+    }
+
+    public int minus(int n1,int n2){
+        return n1 - n2;
     }
 }
